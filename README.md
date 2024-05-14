@@ -4,6 +4,7 @@
 This project involves predicting which passengers were transported to an alternate dimension during the maiden voyage of the Spaceship Titanic. Utilizing data science and machine learning techniques, I analyzed passenger data to build and evaluate predictive models. 
 
 This project was part of a Kaggle competition. Kaggle competition  score 0.7947
+Link : https://www.kaggle.com/c/spaceship-titanic
 
 ## Table of Contents
 * Overview
